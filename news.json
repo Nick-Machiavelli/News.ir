@@ -1,5 +1,25 @@
 [
     {
+        "id": "3cf71b4117",
+        "title_fa": "آمریکا سه تانکر نفت ایران را نابود کرد",
+        "title_en": "Trump admin shows Iran what real power looks like: Responds to attack by annihilating 3 oil tankers",
+        "summary": [
+            "نیروهای CENTCOM سه کشتی نفتی ایرانی را هدف گرفتند؛ واکنشی نظامی پس از شلیک موشک‌های بالستیک سپاه به دو ناو آمریکا.",
+            "حمله به تانکرها توان حمل‌ونقل نفت ایران را به‌طور چشمگیری کاهش می‌دهد و فشار اقتصادی را تشدید می‌کند.",
+            "تصاعد این برخورد می‌تواند به بروز جنگ محلی منجر شود؛ کشورهای منطقه و روسیه‑چین احتمالاً به ایران هم‌پیمان می‌شوند.",
+            "تحریم‌های جدید آمریکا بر صادرات نفتی ایران را سخت‌تر می‌کند و بازار جهانی نفت را تحت فشار قرار می‌دهد."
+        ],
+        "impact": "حذف سه تانکر، توان صادرات نفتی ایران را کاهش می‌دهد و خطر گسترش درگیری نظامی را بالا می‌برد.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.3,
+        "source": "The Western Journal",
+        "url": "https://www.msn.com/en-us/news/other/trump-admin-shows-iran-what-real-power-looks-like-responds-to-attack-by-annihilating-3-oil-tankers/ar-AA2bEqGv",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-admin-shows-iran-what-real-power-looks-like-responds-to-attack-by-annihilating-3-oil-tankers/ar-AA2bEqGv",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bE9lW.img?w=1200&h=630&m=4&q=79",
+        "timestamp": 1788649051.0
+    },
+    {
         "id": "c20b5139e2",
         "title_fa": "ایران هدف‌گیری ناوهای آمریکا پس از حمله به تانکرها",
         "title_en": "Iran targets US warships after tanker strikes as Washington raises the economic cost",
@@ -5453,25 +5473,5 @@
         "clean_url": "https://dunyanews.tv/en/Event-Reporting/272",
         "image": "https://img.dunyanews.tv/live_event/272_20709029.jpg",
         "timestamp": 1788498060.0
-    },
-    {
-        "id": "42b2ff8b3e",
-        "title_fa": "دروپ غیرمسلح روسی در پوروو فنلاند شناسایی شد",
-        "title_en": "Finland says Russia notified it of stray drone",
-        "summary": [
-            "روسیه به فنلاند اطلاع داد که یک دروپ غیرنظامی در شهر پوروو پرواز کرده است",
-            "دروپ مدل Geoscan 701 ساخت روسیه است و معمولاً برای کارهای کشاورزی یا نقشه‌برداری به کار می‌رود",
-            "تحقیقات فنلاندی ادامه دارد و هنوز هدف دقیق پرواز مشخص نشده",
-            "حادثه نشان می‌دهد که حریم هوایی مرزی به‌دقت زیر نظر است"
-        ],
-        "impact": "حفظ حریم هوایی فنلاند تحت فشار، احتمال افزایش نظارت مرزی",
-        "tag": "دروپ",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "AzerNews",
-        "url": "https://www.azernews.az/region/263410.html",
-        "clean_url": "https://www.azernews.az/region/263410.html",
-        "image": "https://www.azernews.az/media/2026/09/04/403215.jpg",
-        "timestamp": 1788497700.0
     }
 ]
