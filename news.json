@@ -1,5 +1,22 @@
 [
     {
+        "id": "23e80e0a7d",
+        "title_fa": "هزینه های جنگ ایران برای چندین دهه ادامه خواهد داشت",
+        "title_en": "The Costs of the Iran War Will Continue For Decades",
+        "summary": [
+            "Like wars before it, the costs of the current war with Iran will go on for decades to pay for the human and physical damage..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/williamhartung/2026/09/05/the-costs-of-the-iran-war-will-continue-for-decades/",
+        "clean_url": "https://www.forbes.com/sites/williamhartung/2026/09/05/the-costs-of-the-iran-war-will-continue-for-decades",
+        "image": "https://www.bing.com/th?id=ONUT.Qza2WI17IDEtO3CihDLcAQ",
+        "timestamp": 1788652047.1701584
+    },
+    {
         "id": "3cf71b4117",
         "title_fa": "آمریکا سه تانکر نفت ایران را نابود کرد",
         "title_en": "Trump admin shows Iran what real power looks like: Responds to attack by annihilating 3 oil tankers",
@@ -5456,22 +5473,5 @@
         "clean_url": "https://www.rediff.com/news/column/what-if-sindoor-resumes-will-saudis-turks-rush-to-help-pakistan/20260904.htm",
         "image": "https://im.rediff.com/1200-630/news/2026/sep/02mecca-pact-1.jpg",
         "timestamp": 1788498210.1909425
-    },
-    {
-        "id": "f55a2d8800",
-        "title_fa": "جنگ ایران و آمریکا",
-        "title_en": "US-Iran war",
-        "summary": [
-            "US, Israel launched strikes on Iran on Feb 28, with Trump declaring \"major combat operations\",Supreme Leader Ayatollah Ali Khamenei martyred in the strikes, and his son Mojtaba succeeded him in March,"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Dunya News",
-        "url": "https://dunyanews.tv/en/Event-Reporting/272",
-        "clean_url": "https://dunyanews.tv/en/Event-Reporting/272",
-        "image": "https://img.dunyanews.tv/live_event/272_20709029.jpg",
-        "timestamp": 1788498060.0
     }
 ]
