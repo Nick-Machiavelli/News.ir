@@ -673,6 +673,26 @@
         "timestamp": 1788607246.3137167
     },
     {
+        "id": "ae86d94030",
+        "title_fa": "ترامپ تهدید به حمله به سایت هسته‌ای ایران",
+        "title_en": "Trump renews threat against Iran's nuclear sites, calls war 'small potatoes'",
+        "summary": [
+            "ترامپ اعلام کرد ۱۸ سرباز آمریکایی در درگیری با ایران کشته شده‌اند و این جنگ را «سیب‌زمینی کوچک» نامید",
+            "او گفت به زودی به پایگاه مستحکم «پیک‌اکس ماونتن» ضربه خواهد زد",
+            "ادعا کرد مسیرهای نفتی جایگزین برای دور زدن تنگه هرمز پیدا شده و وابستگی جهانی به این تنگه کاهش می‌یابد",
+            "دوباره از عدم دریافت جایزه نوبل انتقاد کرد و خود را مقصر پایان هشت جنگ می‌داند"
+        ],
+        "impact": "تهدید مستقیم به سایت هسته‌ای می‌تواند عملیات نظامی آمریکا را در منطقه تشدید کند و خطر تصعید جنگ هسته‌ای را بالا ببرد",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Samaa TV",
+        "url": "https://www.samaa.tv/2087356288-trump-renews-threat-against-iran-s-nuclear-sites-calls-war-small-potatoes",
+        "clean_url": "https://www.samaa.tv/2087356288-trump-renews-threat-against-iran-s-nuclear-sites-calls-war-small-potatoes",
+        "image": "https://images.samaa.tv/images/Trump-Iran-nuclear-inspections.jpg",
+        "timestamp": 1788606540.0
+    },
+    {
         "id": "9223dcd749",
         "title_fa": "آیا آمریکا به تاریک‌گاه دموکراسی رسیده؟",
         "title_en": "Has America entered a democratic Twilight Zone? | Opinion",
@@ -5453,22 +5473,5 @@
         "clean_url": "https://www.azernews.az/region/263410.html",
         "image": "https://www.azernews.az/media/2026/09/04/403215.jpg",
         "timestamp": 1788497700.0
-    },
-    {
-        "id": "44c873ab9d",
-        "title_fa": "\"زمان برای دیدگاه او\" - نماینده لیبرال دلیل دعوت ولیعهد سابق ایران را فاش می‌کند",
-        "title_en": "‘Time for his perspective’ – Liberal MP reveals reason behind former Iranian Crown Prince invite",
-        "summary": [
-            "The Shadow Minister for Education and Indigenous Australians Julian Leeser has revealed to Michael McLaren the reason behind..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "2GB",
-        "url": "https://www.2gb.com/time-for-his-perspective-liberal-mp-reveals-reason-behind-former-iranian-crown-prince-invite/",
-        "clean_url": "https://www.2gb.com/time-for-his-perspective-liberal-mp-reveals-reason-behind-former-iranian-crown-prince-invite",
-        "image": "https://www.bing.com/th?id=ONUT.aqgLLOCIYFseqfkwjWcC2g",
-        "timestamp": 1788496570.5676758
     }
 ]
